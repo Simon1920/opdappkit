@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Learn about the Industrial Revolution with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "When did it start?",
+      "answers": ["1760", "1800", "1900"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Where did it begin?",
+      "answers": ["UK", "USA", "France"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who invented the steam engine?",
+      "answers": ["Watt", "Edison", "Tesla"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What powered early factories?",
+      "answers": ["Coal", "Oil", "Gas"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What industry boomed?",
+      "answers": ["Textile", "Automobile", "Steel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Key transport?",
+      "answers": ["Train", "Car", "Plane"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Main material?",
+      "answers": ["Iron", "Aluminum", "Plastic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What system rose?",
+      "answers": ["Factory", "Feudal", "Tribal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Impact on cities?",
+      "answers": ["Growth", "Decline", "Stable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is an inventor?",
+      "answers": ["Arkwright", "Ford", "Einstein"],
       "correctAnswerIndex": 0
     }
   ]
